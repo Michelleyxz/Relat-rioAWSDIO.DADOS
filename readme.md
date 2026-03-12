@@ -4,11 +4,7 @@ Projeto: Análise de Dados – Estados com Maior Consumo e Custo de Energia
 Data: 19/01/2026
 Responsável: Michelle Maria
 
-Introdução
-
 Este relatório descreve o desenvolvimento de um projeto de análise de dados em nuvem, utilizando serviços da Amazon Web Services (AWS). O projeto tem como objetivo armazenar, processar e visualizar dados, permitindo identificar padrões e indicadores relevantes, como os estados com maior consumo e maior custo de energia.
-
-O projeto foi desenvolvido com foco educacional e demonstrativo, simulando um cenário real de uso de computação em nuvem, análise de dados e visualização de informações para apoio à tomada de decisão.
 
 Objetivo do Projeto
 
@@ -111,4 +107,5 @@ Notebook de análise exploratória
 README.md do projeto
 
 Responsável pelo Projeto:
+
 Michelle Maria
